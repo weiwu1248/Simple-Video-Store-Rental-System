@@ -1,4 +1,4 @@
-/*
+
 Welcome. This is a rental store system.
 
 Pick a option:
@@ -404,4 +404,3 @@ Press any key to continue . . .
 
 
 
-*/
